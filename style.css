@@ -1,0 +1,77 @@
+body{
+  background:#068C2D;
+  color:green;
+}
+.flex_main{
+
+  display:flex;
+  flex-direction:row;
+}
+.profile_child{
+  width:35%;
+  background:#fff;
+  padding:2%;
+  margin:2%;
+}
+
+.content_child{
+  width:70%;
+  background:#fff;
+  padding:2%;
+  margin:2%;
+}
+
+.profile_pic{
+  width:200px;
+  height:auto;
+}
+.profile_circle
+{
+  border-radius: 50px;
+  border:1px solid #ddd;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+.flex_main{
+    display:flex;
+    flex-direction:column;
+  }
+
+.profile_child{
+    width:100%;
+    background:#fff;
+    padding:2%;
+    margin:2%;
+  }
+
+.content_child{
+    width:100%;
+    background:#fff;
+    padding:2%;
+    margin:2%;
+  }
+
+.profile_pic{
+    width:200px;
+    height:auto;
+  }
+.profile_circle
+  {
+    border-radius: 50px;
+    border:1px solid #ddd;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+}
+
+div.textContent("mahesh");  @media only screen and (min-width:481px) and (max-width:768px){
+
+
+  }
+    @media only screen and (min-width:769px) and (max-width:1024px){}
+}
