@@ -1,11 +1,29 @@
 {
   "basics":{
     "name":"subhani",
-    "age":"20",
-    "number":"12314563",
-    "role":"student"
+    "role":"student",
+    "mobile number":"138785509867",
+    "email":"kallapallimadhucharan@gmail.com"
   },
   "career":{
-  "objective":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
-}
+    "objective":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+  },
+  "education":[
+    {
+      "degree":"B-tech(copmuter science and engineering)",
+      "college":"sir cr reddy college",
+      "data":["2015-19","80%"]
+    },
+    {
+    "degree":"Board of intermediate",
+    "college":"chaitanya junior college",
+    "data":["2013-15","95%"]
+  },
+  {
+    "degree":"Secondary school",
+    "college":"ravindra bharathi",
+    "data":["2012-13","95%"]
+  }
+  ]
 }
